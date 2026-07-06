@@ -120,7 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard]([C:\Users\DELL\Desktop\Project Vendor\image.png](https://github.com/suryavhi704/Vendor_Project/blob/main/image.png?raw=true))
+![Vendor Performance Dashboard](https://github.com/suryavhi704/Vendor_Project/blob/main/image.png?raw=true)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
